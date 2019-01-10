@@ -14,3 +14,8 @@
 # Tools
 
 * [Slither - static analysis](https://github.com/trailofbits/slither)
+* [Solidity flattener](https://github.com/akombalabs/SolidityFlattery)
+
+# Code
+
+* [secp256k1 curve in C](https://github.com/bitcoin-core/secp256k1)
