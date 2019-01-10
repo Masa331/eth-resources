@@ -3,6 +3,7 @@
 * [ConsenSys smart contract best practices](https://consensys.github.io/smart-contract-best-practices)
 * [Smart Contract Security Newsletter](https://tinyletter.com/smart-contract-security)
 * [Smart Contract Weakness Classification and Test Cases](https://smartcontractsecurity.github.io/SWC-registry/)
+* [Ethernaut - smart contracts hacking game](https://ethernaut.zeppelin.solutions/)
 
 # Bounties
 
