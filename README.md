@@ -17,6 +17,10 @@
 
 * [Slither - static analysis](https://github.com/trailofbits/slither)
 * [Solidity flattener](https://github.com/akombalabs/SolidityFlattery)
+* [sol-compiler](https://sol-compiler.com/)
+* [sol-coverage](https://sol-coverage.com/)
+* [sol-profiler](https://sol-profiler.com/)
+* [sol-trace](https://sol-trace.com/)
 
 # Code
 
